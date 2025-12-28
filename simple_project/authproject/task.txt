@@ -1,0 +1,8 @@
+
+App Started........
+
+1.Add work 
+2.Delete Work 
+3.View All work 
+4.Update the work 
+5.Exit
